@@ -1,0 +1,13 @@
+cairocffi==1.0.2
+CairoSVG==2.3.1
+cffi==1.12.3
+cssselect2==0.2.1
+defusedxml==0.6.0
+html5lib==1.0.1
+Pillow==6.0.0
+pycparser==2.19
+Pyphen==0.9.5
+six==1.12.0
+tinycss2==1.0.2
+WeasyPrint==47
+webencodings==0.5.1
